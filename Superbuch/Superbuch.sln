@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Superbuch", "Superbuch\Supe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Superbuch.Entities", "Superbuch.Entities\Superbuch.Entities.csproj", "{579A45C5-7DBB-472D-8C09-6576694FB6D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Superbuch.Contracts", "Superbuch.Contracts\Superbuch.Contracts.csproj", "{7D7BA824-F8CE-4794-B107-85E28065C229}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{579A45C5-7DBB-472D-8C09-6576694FB6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{579A45C5-7DBB-472D-8C09-6576694FB6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{579A45C5-7DBB-472D-8C09-6576694FB6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D7BA824-F8CE-4794-B107-85E28065C229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7BA824-F8CE-4794-B107-85E28065C229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7BA824-F8CE-4794-B107-85E28065C229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7BA824-F8CE-4794-B107-85E28065C229}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
