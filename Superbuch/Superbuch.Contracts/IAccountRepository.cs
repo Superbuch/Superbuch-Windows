@@ -2,7 +2,7 @@
 
 namespace Superbuch.Contracts
 {
-    interface IAccountRepository : IRepository<Account>
+    public interface IAccountRepository : IRepository<Account>
     {
     }
 }

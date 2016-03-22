@@ -2,7 +2,7 @@
 
 namespace Superbuch.Contracts
 {
-    interface IUnitOfWork : IDisposable
+    public interface IUnitOfWork : IDisposable
     {
 
         IAccountRepository Accounts { get; }

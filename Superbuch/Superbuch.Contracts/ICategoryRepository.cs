@@ -2,7 +2,7 @@
 
 namespace Superbuch.Contracts
 {
-    interface ICategoryRepository : IRepository<Category>
+    public interface ICategoryRepository : IRepository<Category>
     {
     }
 }

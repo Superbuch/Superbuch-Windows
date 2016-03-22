@@ -2,7 +2,7 @@
 
 namespace Superbuch.Contracts
 {
-    interface IBookingRepository : IRepository<Booking>
+    public interface IBookingRepository : IRepository<Booking>
     {
     }
 }
